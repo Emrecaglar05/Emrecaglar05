@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78E69&center=true&vCenter=true&width=435&lines=Data+Science+Lover;Aspiring+Data+Analyst;Working+with+Python+%26+SQL;Exploring+Machine+Learning;Building+with+Blender+%26+Pandas" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi there, I'm Emre 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Passionate about AI & Data Analysis</h3>
 
