@@ -11,7 +11,7 @@
 🔍 Focused on **Data Science, AI, and Data Analysis**  
 💻 Skilled in **Python, C#, SQL, Pandas, NumPy, Seaborn, Matplotlib, Blender**  
 📊 Check out my project: [COVID-19 Turkey Data Analysis](https://github.com/Emrecaglar05/covid19-turkiye-analizi)  
-📬 Reach me at: **bdemircanli15@gmail.com**
+📬 Reach me at: **emrecaglar0505@gmail.com**
 
 ---
 
