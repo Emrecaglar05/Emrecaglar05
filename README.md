@@ -42,7 +42,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emrecaglar05/" target="_blank">
+  <a href="www.linkedin.com/in/emre-çağlar-9bb493294" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/cglremree_dll?igsh=bHZqZHp4NG55Y3k1&utm_source=qr" target="_blank">
