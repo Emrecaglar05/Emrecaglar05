@@ -103,13 +103,17 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Emrecaglar05/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrecaglar05&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/Emrecaglar05/reast_cancer_classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrecaglar05&repo=reast_cancer_classification&theme=tokyonight&hide_border=true" alt="Breast Cancer Classification" />
   </a>
-  <a href="https://github.com/Emrecaglar05/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrecaglar05&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/Emrecaglar05/Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrecaglar05&repo=Data-Analysis&theme=tokyonight&hide_border=true" alt="Data Analysis Projects" />
   </a>
 </div>
+
+### 🔬 **Project Highlights:**
+- **🩺 Breast Cancer Classification**: Machine Learning model for medical diagnosis using classification algorithms
+- **📊 Customer Segmentation & Revenue Prediction**: Advanced analytics for business intelligence and customer insights
 
 ## 📈 Learning Journey
 
