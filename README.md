@@ -241,3 +241,8 @@ graph TD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=130&section=footer&text=Profilimi+ziyaret+ettiğiniz+için+teşekkürler!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
