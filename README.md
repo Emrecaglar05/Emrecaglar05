@@ -130,7 +130,7 @@ class AIEngineer:
 ### 🤖 KOMPLI AI
 [![KOMPLI_AI](https://github-readme-stats.vercel.app/api/pin/?username=Emrecaglar05&repo=KOMPLI_AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/Emrecaglar05/KOMPLI_AI)
 
-**YBS Bitirme Projesi** — E-ticaret operasyonlarının Türkiye mevzuatına uygunluğunu otomatik kontrol eden AI sistemi.
+**E-Ticaret Proje** — E-ticaret operasyonlarının Türkiye mevzuatına uygunluğunu otomatik kontrol eden AI sistemi.
 
 `LangChain` `RAG` `FAISS` `FastAPI` `Gemini 2.5` `Next.js`
 
